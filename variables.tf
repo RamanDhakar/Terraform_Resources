@@ -1,1 +1,1 @@
-variable client_secret {}
+variable Azure_secret {}
