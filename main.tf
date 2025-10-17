@@ -17,10 +17,11 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "RGdetails" {
-  name     = "TF_Resource_Group"
+  name     = "TF_Resource_Group2"
   location = "central india"
   
 
 }
+
 
 
