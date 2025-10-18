@@ -15,13 +15,15 @@ provider "azurerm" {
   client_secret = var.Azure_secret
     features {}
 }
-
+/*
 resource "azurerm_resource_group" "RGdetails" {
   name     = "TF_Resource_Group2"
   location = "central india"
   
 
 }
+*/
+
 
 
 
